@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik+One&subset=latin,cyrillic);
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+.container {
+}
+.wrapper-box {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.item {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #181123;
+  font-size: 25px;
+
+  /* border-radius: 25px; */
+  padding: 5px;
+  margin-bottom: 25px !important;
+  width: 45%;
+
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+/* .button-add-todo {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  color: #red !important;
+} */
+.form-check-input {
+  margin-left: 0px !important;
+}
+/* .transparent-text {
+  font-family: sans-serif;
+  font-size: 20px;
+
+  background: rgb(63, 94, 251);
+  background: linear-gradient(
+    15deg,
+    rgba(63, 94, 251, 1) 36%,
+    rgba(70, 252, 170, 0.6638176638176638) 100%
+  );
+  display: flex;
+  margin: 20px auto;
+  color: white;
+  border-radius: 5px;
+  mix-blend-mode: multiply;
+  padding: 5px 10px;
+} */
